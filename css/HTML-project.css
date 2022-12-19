@@ -1,0 +1,33 @@
+body{
+    background-color: #B3B3B3;
+    font-size: 125%
+  }
+  header{
+    text-align: center;
+    background-color: #666666;
+  }
+  h1{
+    color: white;
+    font-size: 190%;
+  }
+  nav{
+    font-size:150%;
+    font-variant:small-caps;
+    color: #0c9ee29d;
+  }
+  h2{
+    background-color: #0cc2e2f4;
+     font-family: courier;
+    font-style: normal;
+    line-height: 120%;
+  }
+  details{
+    font-style: italic;
+  }
+  summary{
+    font-style: normal;
+  }
+  footer{
+    background-color: rgb(103,103,102); 
+  }
+  
